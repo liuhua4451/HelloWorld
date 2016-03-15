@@ -92,12 +92,12 @@ u=t,("aaa","bbb","ccc")
 print t
 print u
 
-p="onlyone","another"
+p="onlyone","another","one more"
 print p
-a,b=p
+a,b,c=p
 print a
 print b
-
+print c
 
 
 
